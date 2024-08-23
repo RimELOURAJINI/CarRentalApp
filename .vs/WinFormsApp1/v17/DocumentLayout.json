@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\conducteurlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\conducteurlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\conducteurlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\conducteurlistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\deleteconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\deleteconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\deleteconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\deleteconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\deleteclientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\deleteclientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addvoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addvoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addclientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addclientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addvoitureform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addvoitureform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addclientform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addclientform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\voiturelistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\voiturelistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\deletevoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\deletevoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\accueil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\accueil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\accueil.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\accueil.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\deletevoitureform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\deletevoitureform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\deletevoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\deletevoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\accueil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\accueil.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addvoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addvoitureform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\voiturelistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\voiturelistform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\voiturelistform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\voiturelistform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addconducteurform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\conducteurlistform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\conducteurlistform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\samsung\\source\\repos\\winformsapp1\\winformsapp1\\addclientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{10BCE736-D8EF-4CC6-B2F4-AD53D9C1C828}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addclientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.vbproj",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-08-23T02:57:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConducteurListForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ConducteurListForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ConducteurListForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ConducteurListForm.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\ConducteurListForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-21T20:06:39.563Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteConducteurForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteConducteurForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteConducteurForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteConducteurForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\DeleteConducteurForm.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-21T20:05:25.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteConducteurForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteConducteurForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteConducteurForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteConducteurForm.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\DeleteConducteurForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-21T20:04:40.227Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConducteurListForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ConducteurListForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ConducteurListForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ConducteurListForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\ConducteurListForm.vb",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-08T20:32:31.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteClientForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteClientForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteClientForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteClientForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\DeleteClientForm.vb",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-21T19:41:26.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddConducteurForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddConducteurForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddConducteurForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddConducteurForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\AddConducteurForm.vb",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-08T20:38:14.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddVoitureForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddVoitureForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddVoitureForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddVoitureForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\AddVoitureForm.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T15:17:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddClientForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddClientForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddClientForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddClientForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\AddClientForm.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-06T14:07:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddClientForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddClientForm.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddClientForm.Designer.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddClientForm.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\AddClientForm.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-06T13:59:55.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddVoitureForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddVoitureForm.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddVoitureForm.Designer.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddVoitureForm.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\AddVoitureForm.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T15:59:17.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VoitureListForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\VoitureListForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\VoitureListForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\VoitureListForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\VoitureListForm.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T15:08:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Accueil.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Accueil.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Accueil.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Accueil.vb",
+              "RelativeToolTip": "WinFormsApp1\\Accueil.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T16:04:33.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Accueil.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Accueil.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Accueil.Designer.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Accueil.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\Accueil.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T16:06:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteVoitureForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteVoitureForm.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteVoitureForm.Designer.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteVoitureForm.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\DeleteVoitureForm.Designer.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T16:07:08.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteVoitureForm.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteVoitureForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteVoitureForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteVoitureForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\DeleteVoitureForm.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAMAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T16:07:13.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteVoitureForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteVoitureForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteVoitureForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteVoitureForm.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\DeleteVoitureForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T15:08:12.375Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddVoitureForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddVoitureForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddVoitureForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddVoitureForm.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\AddVoitureForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T16:00:26.07Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Accueil.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Accueil.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Accueil.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Accueil.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\Accueil.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-08T17:55:12.201Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VoitureListForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\VoitureListForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\VoitureListForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\VoitureListForm.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\VoitureListForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T15:07:19.165Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VoitureListForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\VoitureListForm.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\VoitureListForm.Designer.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\VoitureListForm.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\VoitureListForm.Designer.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T15:09:57.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddConducteurForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddConducteurForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddConducteurForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddConducteurForm.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\AddConducteurForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-13T16:24:49.952Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-06T14:01:08.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConducteurListForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ConducteurListForm.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ConducteurListForm.Designer.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ConducteurListForm.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\ConducteurListForm.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-12T22:31:18.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.vb",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-07T18:26:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Form1.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-06T13:35:38.537Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddClientForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddClientForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddClientForm.vb",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddClientForm.vb [Conception]",
+              "RelativeToolTip": "WinFormsApp1\\AddClientForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-06T14:07:47.235Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
